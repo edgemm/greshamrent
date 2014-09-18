@@ -1,0 +1,41 @@
+/*
+Theme Name: hemingway Child Theme
+Version: 1.0
+Description: A child theme of hemingway
+Template: hemingway
+*/
+
+@import url("../hemingway/style.css");
+
+.section {
+padding: 10% 0;
+padding-top: 19%;
+padding-right: 0px;
+padding-bottom: 1%;
+padding-left: 0px;
+position: relative;
+}
+
+
+	 
+.blog-info {
+display: inline-block;
+padding: 30px;
+background: hsla(0,0%,11%,0.80);
+}
+
+.featured-media img {
+max-height: 450px;
+width: auto;
+
+}
+
+.slideshow_content {
+border-radius: 4px;
+-webkit-border-radius: 4px;
+-moz-border-radius: 4px;	
+}
+
+.post-content .alignleft, .post-content .alignright {
+margin-bottom: 0px;
+}
