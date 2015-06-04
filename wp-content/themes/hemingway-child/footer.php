@@ -128,7 +128,7 @@
 			
 			<p class="credits-right">
 				
-				
+				Site Design by <a href='http://edgemm.com' title='Portland Advertising Agency' target='_blank'>EDGE Multimedia</a>
 				
 			</p>
 			
